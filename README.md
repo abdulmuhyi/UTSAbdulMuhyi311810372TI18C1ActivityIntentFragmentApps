@@ -1,5 +1,5 @@
-# UTS-AbdulMuhyi-311810372-TI.18.C.1-ActivityIntentFragmentApps
-Nama : Abdul Muhyi
-NIM : 311810372
-Kelas : TI.18.C.1
-Mata Kuliah : Pemrograman Mobile
+# UTS-AbdulMuhyi-311810372-TI.18.C.1-ActivityIntentFragmentApps <br>
+Nama : Abdul Muhyi<br>
+NIM : 311810372<br>
+Kelas : TI.18.C.1<br>
+Mata Kuliah : Pemrograman Mobile<br>
